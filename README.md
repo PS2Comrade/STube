@@ -1,11 +1,10 @@
-# JTube
-<h3>Discontinued!</h3>
+# STube
 
 Youtube client based on Invidious API for Java devices with MIDP 2.0 support
 
 <a href="FAQ.md">FAQ</a><br>
 
-## Running JTube from other MIDlets
+## Running STube from other MIDlets
 <a href="https://github.com/shinovon/MIDletIntegrationLibrary">MIDletIntegration library</a><br>
 
 Example code:<br>
